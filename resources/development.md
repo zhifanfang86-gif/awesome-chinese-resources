@@ -9,6 +9,7 @@
 | Python | [Python 中文文档](https://docs.python.org/zh-cn/3/) | 语言、标准库与环境使用 |
 | Vue | [Vue 中文文档](https://cn.vuejs.org/) | 前端组件与应用开发 |
 | Rust | [Rust 中文入口](https://www.rust-lang.org/zh-CN/) | 工具安装与学习资料入口 |
+| 模型 API | [MoeRouter 接入文档](https://moerouter.com/docs/quickstart/) | 学习如何在 SDK 中选用不同模型。文档公开，API 需账号和余额，按用量计费。 |
 
 ## 新资源记录格式
 
